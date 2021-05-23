@@ -3,9 +3,6 @@ package vista;
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Label;
-
-import java.sql.SQLException;
-
 import javax.swing.JOptionPane;
 
 import org.eclipse.swt.SWT;

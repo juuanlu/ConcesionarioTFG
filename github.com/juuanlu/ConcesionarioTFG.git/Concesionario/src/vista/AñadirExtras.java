@@ -4,12 +4,8 @@ import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Button;
 
-import java.sql.SQLException;
-
 import javax.swing.JOptionPane;
-
 import org.eclipse.swt.SWT;
-import org.eclipse.swt.widgets.Text;
 import org.eclipse.wb.swt.SWTResourceManager;
 
 import controlador.Controlador;

@@ -3,9 +3,6 @@ package vista;
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Table;
-import org.eclipse.swt.widgets.TableColumn;
-import org.eclipse.swt.widgets.TableItem;
-
 import static modelo.Conexion.Conectar;
 
 import java.sql.Connection;
